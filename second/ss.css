@@ -1,0 +1,39 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+.div-1 {
+    float: left;
+    height: 100%;
+    width: 33%;
+    background-color: #3F7FBF; 
+    display: inline-block;
+}
+
+.div-2 {
+    float: left;
+    height: 100%;
+    width: 33%;
+    background-color: chartreuse;
+    display: inline-block;
+   
+}
+.div-3 {
+    height: 80%;
+    width: 33%;
+    background-color: aquamarine;
+    display: inline-block;
+    
+}
+.bottom {
+    float : left;
+   margin-top: 100%;
+    background-color: crimson;
+    display: inline-block;
+    height: 33%;
+    width : 100%;
+    text-align: center;
+}
+p {
+    color: white;
+}
